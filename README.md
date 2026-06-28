@@ -13,6 +13,9 @@ HSU Live Captions has no user accounts, no backend server, no analytics, and no 
 
 **Tiếng Việt:**  
 HSU Live Captions không có tài khoản, không có máy chủ, không có analytics và không có quảng cáo. Toàn bộ xử lý dữ liệu chạy trên thiết bị của bạn. Developer không nhận, truy cập hay lưu trữ bất kỳ dữ liệu nào. 
+
+
+
 ---
 
 ## 1. Data Stored / Dữ liệu được lưu trữ
